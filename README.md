@@ -1,4 +1,4 @@
-# LTSMFull
+# LSTM Full
 Original statistical data and neural network models:
 - LSTM Full (LSTM + CNN + Attention);
 - LSTM Only;
